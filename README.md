@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-<a> href="https://linkedin.com/in/emmathev">
+<a href="https://linkedin.com/in/emmathev">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="33" alt="linkedin logo " /></a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="33" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="33" alt="facebook logo"  />
