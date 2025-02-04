@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Ebenezer Mathevani</h1>
+<h3 align="center">A passionate Java Back End developer</h3>
+
 <div align="center">
   <img height="253" src="https://raw.githubusercontent.com/emmathev/emmathev/refs/heads/main/Coding.gif"  />
 </div>
